@@ -1,4 +1,4 @@
-#Simple PHP Calculator
+###Simple PHP Calculator
 A straightforward PHP-based Calculator application designed for basic arithmetic operations: addition, subtraction, multiplication, and division. This project is perfect for practicing PHP fundamentals and handling user input.
 
 #Features
